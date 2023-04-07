@@ -13,8 +13,13 @@ Este projeto consiste em uma página web que replica a interface do Instagram. O
 - Criação de uma barra de navegação com ícones e links para as páginas principais do Instagram;
 - Implementação de um feed de posts com imagens, nomes de usuários, legendas e botões para interações;
 - Criação de uma seção para sugestões de novos amigos para seguir;
-- Implementação de um rodapé com links para as principais páginas do Instagram e informações de direitos autorais.
-- Utilização de responsividade para web, tablet e mobile
+- Implementação de um rodapé com links para as principais páginas do Instagram e informações de direitos autorais;
+- Utilização de responsividade para web, tablet e mobile.
+
+## Desafios
+
+- Alinhar o background (barra circular) dos stories com as imagens de perfil;
+- Estruturar previamente o projeto no papel;
 
 ## Screenshots
 
@@ -24,17 +29,10 @@ Este projeto consiste em uma página web que replica a interface do Instagram. O
 
 ## Como Executar o Projeto
 
-1. Clone o repositório em sua máquina:
+1. Acesse através do codesandbox:
 
-`git clone https://github.com/seu-usuario/projeto-02-instagram.git`
-
-
-2. Acesse o diretório do projeto:
-
-`cd projeto-02-instagram`
-
-3. Abra o arquivo `index.html` em seu navegador de preferência.
+https://codesandbox.io/s/2-instagram-4b3m63?file=/index.html
 
 ## Conclusão
 
-Este projeto foi uma ótima oportunidade para praticar os conceitos de HTML e CSS, além de ter permitido a criação de uma página web bastante conhecida e utilizada por muitas pessoas atualmente. Foi uma experiência bastante enriquecedora que possibilitou o desenvolvimento de habilidades importantes para o mercado de trabalho.
+Este projeto foi uma ótima oportunidade para praticar os conceitos de HTML e CSS, além de ter permitido a criação de uma página web bastante conhecida e utilizada por muitas pessoas atualmente. Foi uma experiência bastante enriquecedora que possibilitou o desenvolvimento de habilidades importantes para o mercado de trabalho, como organização, atenção aos prazos e divisão to todo em tarefas atômicas.
